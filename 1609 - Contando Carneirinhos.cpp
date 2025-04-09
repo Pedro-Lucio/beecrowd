@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
     // ios::sync_with_stdio(false);
-    cin.tie(nullptr);
+    cout.tie(0), cin.tie(0);
 
     int totalCasos;
     cin >> totalCasos;
